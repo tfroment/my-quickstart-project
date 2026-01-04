@@ -1,7 +1,5 @@
 package com.example;
 
-import static java.lang.Math.sqrt;
-
 /**
  * Hello world!
  *
